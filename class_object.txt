@@ -1,0 +1,15 @@
+rule
+chalk
+board
+laptop
+eraser
+marker
+binder
+pencil
+stapler
+scissors
+textbook
+worksheet
+calculator
+highlighter
+
